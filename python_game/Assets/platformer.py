@@ -48,13 +48,13 @@ class MenuView(arcade.View):
     def on_draw(self):
         """ Draw the menu """
         arcade.start_render()
-        start_x = 220
+        start_x = 255
         start_y = 370
-        arcade.draw_text("Python Education", start_x, start_y, arcade.color.WHITE, 50)
+        arcade.draw_text("Python Quiz", start_x, start_y, arcade.color.WHITE, 50)
 
         self.player_sprite = PLAYER(":resources:images/animated_characters/male_adventurer/maleAdventurer_walk1.png", SPRITE_SCALING_PLAYER)
 
-        start_x = 208
+        start_x = 200
         start_y = 270
         arcade.draw_text("Use the arrow keys on your keyboard to move around", start_x, start_y, arcade.color.RED, 15)
         
@@ -62,7 +62,7 @@ class MenuView(arcade.View):
         start_y = 240
         arcade.draw_text("Use your mouse to aim", start_x, start_y, arcade.color.RED, 15)
 
-        start_x = 360
+        start_x = 340
         start_y = 210
         arcade.draw_text("Click to Shoot", start_x, start_y, arcade.color.RED, 15)
 
