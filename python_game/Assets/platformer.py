@@ -112,6 +112,7 @@ class MyGame(arcade.View):
         """ Initializer """
         super().__init__()
 
+
         # Variables that will hold sprite lists
         self.player_list = None
         
@@ -132,7 +133,7 @@ class MyGame(arcade.View):
         self.background = None
 
     def setup(self):
-
+        
         # Set up the game
 
         # Sprite lists
