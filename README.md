@@ -9,7 +9,6 @@ This game will alow the user to show off what they have learned from this README
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Arcade Resoucres](https://api.arcade.academy/en/latest/resources.html)
 * [Simple Platformer Example](https://api.arcade.academy/en/latest/examples/platform_tutorial/index.html)
 
