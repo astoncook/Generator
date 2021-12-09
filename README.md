@@ -1,11 +1,17 @@
 # Generator
 
-Team Generator project
+This game will alow the user to show off what they have learned from this README file. Going through the game the user should jump on the correct answer and go through all 6 maps.
 
-Hello this is Aston Cook
-Wait a minute...who are you?
+# Development Environment
 
-Hi Aston, this is Ezra.
+* Python 3.8.0
+* Arcade 2.5.7
+
+# Useful Websites
+
+{Make a list of websites that you found helpful in this project}
+* [Arcade Resoucres](https://api.arcade.academy/en/latest/resources.html)
+* [Simple Platformer Example](https://api.arcade.academy/en/latest/examples/platform_tutorial/index.html)
 
 # Useful Information
 
